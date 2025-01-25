@@ -1,5 +1,13 @@
 # Changelog
 
+## [26.12.0](https://github.com/sentry-kubernetes/charts/compare/sentry-v26.11.2...sentry-v26.12.0) (2025-01-25)
+
+
+### Features
+
+* add custom labels for ingress ([#1672](https://github.com/sentry-kubernetes/charts/issues/1672)) ([712a469](https://github.com/sentry-kubernetes/charts/commit/712a4696a2d163ee83baad61453e7a3fa2da4f3d))
+* add Kafka topics from upstream projects (Sentry and Snuba) for version 24.12.2 ([#1678](https://github.com/sentry-kubernetes/charts/issues/1678)) ([cf696b7](https://github.com/sentry-kubernetes/charts/commit/cf696b75d1c13b9f1af3388c3d818b8fdffee71b))
+
 ## [26.11.2](https://github.com/sentry-kubernetes/charts/compare/sentry-v26.11.1...sentry-v26.11.2) (2025-01-18)
 
 
